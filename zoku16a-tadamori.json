@@ -4,7 +4,12 @@
  "repo": "kumoi-no-fumigura/tadamori",
  "yomi": "たいらのただもりあそんしゅう",
  "category": "私家集",
- "description": null,
+ "description": {
+  "kind": "私家集",
+  "era": "平安後期",
+  "author": "平忠盛",
+  "desc": "平清盛の父、忠盛の小さな家集。崇徳院（新院）の百首の詠や、備前守・播磨守として下向した折の歌、殿上を望んだ折の歌などを収める。"
+ },
  "editions": [
   {
    "pid": "936505",
